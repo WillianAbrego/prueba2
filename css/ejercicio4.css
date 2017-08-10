@@ -1,0 +1,21 @@
+body{
+	background-color: #4682B4; 
+	font-size: 20px;
+}
+h1{
+	text-transform: uppercase;
+	color: #FFD700;
+}
+li{
+	margin: 0;
+	padding: 0;
+	list-style-image:url(../img/bullet.gif); ;
+}
+div{
+	margin: 60px auto;
+	width: 80%;
+	background-color: #008080;
+	padding: 20px 20%;
+	box-sizing: border-box;
+
+}
